@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f70fa9e-0caa-4308-8985-6c879a080abb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kk5bbvZaSSXuTVOTg81sllJozO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../GitHub/personalweb/Backend/bullseye-cloud" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day19" />
+      <recent name="Day18" />
+      <recent name="Day17" />
+      <recent name="Day15b" />
+      <recent name="Day15" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bullseye\Documents\Werk\NexiosIT\Projects\Advent of code\2020\src\Day20" />
+      <recent name="C:\Users\Bullseye\Documents\Werk\NexiosIT\Projects\Advent of code\2020\src\Day19c" />
+      <recent name="C:\Users\Bullseye\Documents\Werk\NexiosIT\Projects\Advent of code\2020\src\Day19b" />
+      <recent name="C:\Users\Bullseye\Documents\Werk\NexiosIT\Projects\Advent of code\2020\src\Day14" />
+      <recent name="C:\Users\Bullseye\Documents\Werk\NexiosIT\Projects\Advent of code\2020\src\Day13b" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day19">
+    <configuration name="Day18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day18.Day18" />
+      <module name="Advent of code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day19c.Day19" />
+      <module name="Advent of code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day19c.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day17.Main" />
+      <module name="Advent of code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day19.Main" />
+      <module name="Advent of code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day19b.Main" />
+      <module name="Advent of code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day19b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day19" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Day18" />
+        <item itemvalue="Application.Main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f70fa9e-0caa-4308-8985-6c879a080abb" name="Default Changelist" comment="" />
+      <created>1606231820151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606231820151</updated>
+      <workItem from="1606231901868" duration="20005000" />
+      <workItem from="1606812675375" duration="806000" />
+      <workItem from="1606845744615" duration="9398000" />
+      <workItem from="1607070458053" duration="4128000" />
+      <workItem from="1607112317356" duration="5175000" />
+      <workItem from="1607248734117" duration="1710000" />
+      <workItem from="1607333760283" duration="8660000" />
+      <workItem from="1607345957280" duration="42000" />
+      <workItem from="1607346010969" duration="21000" />
+      <workItem from="1607349049022" duration="1227000" />
+      <workItem from="1607375110520" duration="31000" />
+      <workItem from="1607419760172" duration="4234000" />
+      <workItem from="1607498687655" duration="3199000" />
+      <workItem from="1607543613131" duration="10000" />
+      <workItem from="1607591011580" duration="7824000" />
+      <workItem from="1607675450318" duration="12188000" />
+      <workItem from="1607706328245" duration="10668000" />
+      <workItem from="1607860665703" duration="14042000" />
+      <workItem from="1607950302940" duration="253000" />
+      <workItem from="1607967004204" duration="4697000" />
+      <workItem from="1608020672109" duration="6299000" />
+      <workItem from="1608189870544" duration="195000" />
+      <workItem from="1608197237682" duration="646000" />
+      <workItem from="1608281942937" duration="3259000" />
+      <workItem from="1608392689243" duration="1139000" />
+      <workItem from="1608543635400" duration="11433000" />
+      <workItem from="1609246275306" duration="1477000" />
+      <workItem from="1611061466754" duration="418000" />
+      <workItem from="1611063435209" duration="193000" />
+      <workItem from="1611758155863" duration="34000" />
+      <workItem from="1611759317019" duration="614000" />
+      <workItem from="1612386890239" duration="81000" />
+      <workItem from="1612789418050" duration="886000" />
+      <workItem from="1612809238171" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1608020733956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608020733956" />
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1607337126209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607337126209" />
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608592276169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608592276169" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1612979497969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612979497969" />
+    <state width="1876" height="194" key="GridCell.Tab.0.bottom" timestamp="1608592565553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608592565553" />
+    <state width="1876" height="194" key="GridCell.Tab.0.center" timestamp="1608592565553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="194" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608592565553" />
+    <state width="1876" height="194" key="GridCell.Tab.0.left" timestamp="1608592565553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="194" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608592565553" />
+    <state width="1876" height="194" key="GridCell.Tab.0.right" timestamp="1608592565553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="194" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608592565553" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1608026976964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608026976964" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1608026976963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608026976963" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1608026976963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608026976963" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1608026976963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608026976963" />
+    <state x="535" y="152" key="SettingsEditor" timestamp="1611063623564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="152" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611063623564" />
+    <state x="690" y="285" key="extract.method.dialog" timestamp="1606256356102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="285" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606256356102" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608591152872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608591152872" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607867027828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607867027828" />
+  </component>
+</project>
